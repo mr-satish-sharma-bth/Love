@@ -38,7 +38,7 @@ body {
 }
 a { text-decoration: none; }
 body::before {
-  content: "Instagram | @aoudumber.dev";
+  content: "Instagram | @mr_satish_sharma_bth";
   color: white;
   opacity: .12;
   font-size: 11px;
